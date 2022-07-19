@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  *:focus,
+  *:active {
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .picture img {
+    height: 200px;
+    width: 270px;
+  }
+  body {
+    background-image: url(Images/index43.jpg);
+  }
